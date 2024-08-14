@@ -24,6 +24,7 @@ int main(int argc, char **argv)
 	int *ptr2 = &b;
 	char buffer[1024] = "mammina mia";
 	//char *buffer = "mammina mia"; //uguale
+	//char *bu = &buffer[0]
 
 	funzione(ptr);
 	funzione2(buffer);
