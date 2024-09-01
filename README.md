@@ -11,7 +11,8 @@ Processor programming in C and Assembly. Assembly language (x86 compatible), C (
 
 Materials available in this repository include:
 
--C codes to prepare the brain for programming.
+-C codes to prepare the brain for programming
+
 -Assembly driver writing
 
 ## How to Use
