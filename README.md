@@ -1,29 +1,26 @@
-# Electronic_Calculators
-This repository contains the project tests of the electronic calculators course of the engineering faculty held by Prof. Eng. Alessandro Pellegrini at the University of Rome Tor Vergata.
-# Calcolatori Elettronici - Facoltà di Ingegneria
+# Electronic Calculators - Faculty of Engineering Rome Tor Vergata (Uniroma2)
 
-Benvenuti nella repository GitHub per il corso di "Calcolatori Elettronici" della Facoltà di Ingegneria. Questo spazio è dedicato alla condivisione di materiali didattici, esercizi, esempi di codice e progetti relativi al corso.
+Welcome to the GitHub repository for the "Electronic Calculators" course of the Faculty of Engineering. This space is dedicated to sharing teaching materials, exercises, code examples and projects related to the course.
 
-## Descrizione del Corso
+## Main topics
 
-Il corso di Calcolatori Elettronici copre i principi fondamentali dei sistemi di elaborazione. Gli argomenti trattati includono architettura dei computer, microarchitettura, set di istruzioni, organizzazione della memoria, e concetti di networking e comunicazione tra calcolatori.
+The course covers the fundamentals of computer systems. Topics include computer architecture, microarchitecture, instruction sets, memory organization, and computer networking and communication concepts.
+Processor programming in C and Assembly. Assembly language (x86 compatible), C (standard version C11).
 
 ## Materiali del Corso
 
-I materiali disponibili in questa repository includono:
+Materials available in this repository include:
 
-- Slide delle lezioni
-- Esercizi e soluzioni
-- Esempi di codice
-- Progetti di esempio
+-C codes to prepare the brain for programming.
+-Assembly driver writing
 
 ## Come Utilizzare
 
-Per utilizzare i materiali in questa repository, seguire questi passaggi:
+To use the materials in this repository, follow these steps:
 
-1. Clonare la repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calcolatori-elettronici.git
+   git clone https://github.com/SimoneRemoli/Electronic_Calculators
 
 ### Spiegazione delle Sezioni del README
 
@@ -34,5 +31,5 @@ Per utilizzare i materiali in questa repository, seguire questi passaggi:
 - **Licenza**: Dettagli sulla licenza sotto la quale i materiali sono rilasciati.
 - **Contatti**: Informazioni di contatto del professore responsabile del corso.
 
-Questo file README è essenziale per aiutare gli studenti e altri interessati a capire rapidamente lo scopo della repository e come possono utilizzare o contribuire ai materiali disponibili.
+This README file is essential to help students and other interested parties quickly understand the purpose of the repository and how they can use or contribute to the materials available.
 
