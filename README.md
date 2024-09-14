@@ -1,5 +1,6 @@
 # Electronic Calculators - Faculty of Engineering Rome Tor Vergata (Uniroma2)
 
+I passed the exam with 30! If you want to take notions from me I'm happy.
 Welcome to the GitHub repository for the "Electronic Calculators" course of the Faculty of Engineering. This space is dedicated to sharing teaching materials, exercises, code examples and projects related to the course.
 
 ## Main topics
